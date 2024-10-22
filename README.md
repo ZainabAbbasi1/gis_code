@@ -38,3 +38,9 @@ system("git remote -v")
 
 
 i am going to try to push using Andys technique
+
+> use_github()
+system("git status")
+
+
+
