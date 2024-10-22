@@ -24,3 +24,17 @@ install.packages("usethis")
 library(usethis)
 
 use_github()
+system("git status")
+
+system("git add README.md")
+system("git add .")
+system("git commit -m 'Update README.md'")
+system("git push")
+
+system("git status")
+system("git log")
+system("git diff")
+system("git remote -v")
+
+
+i am going to try to push using Andys technique
