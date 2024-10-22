@@ -42,5 +42,7 @@ i am going to try to push using Andys technique
 > use_github()
 system("git status")
 
+trying andys technique again
+use_github()
 
 
