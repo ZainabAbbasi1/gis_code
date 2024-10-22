@@ -16,3 +16,11 @@ i am typing code to learn how to pull but i am no sure if its working
 
 
 learning push, will it work?
+i think it is working because i am saving it
+
+
+
+install.packages("usethis")
+library(usethis)
+
+use_github()
