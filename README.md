@@ -48,3 +48,6 @@ use_github()
 learning to pull
 
 pull using new gui
+
+lets tr
+
